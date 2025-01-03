@@ -1,13 +1,36 @@
-- 👋 Hi, I’m Sachin Maharjan(@lujamaharjan)
-- 👀 I’m interested in programming and Devops.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Sachin Maharjan
+💻 .NET Developer with 4+ years of experience | MSc in Data Science (ongoing).
+🔧 Skills: ASP.NET, FastAPI, Python, HTML, CSS, JavaScript, React.js.
+📊 Exploring: Data Science, Machine Learning, and Computational Intelligence.
+🚀 Passionate about: Building scalable solutions, solving complex problems, and continuous learning.
 
-##Tech Stack
-C#, js, jquery, css, html, python, django, fastapi
 
-<!---
-lujamaharjan/lujamaharjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Skills & Expertise:
+
+Web Development: ASP.NET, FastAPI, Python
+
+Frontend Technologies: HTML, CSS, Vanilla JavaScript, React.js
+
+Data Science & Machine Learning: Expanding knowledge through MSc studies and hands-on projects.
+
+🚀 What I Do:
+
+Build scalable web applications using modern frameworks and tools.
+
+Solve complex problems with a focus on efficiency and innovation.
+
+Continuously learn and explore new technologies in data science and software engineering.
+
+📚 Currently Learning:
+
+Advanced machine learning, deep learning, and computational intelligence techniques.
+
+🌟 Passionate About:
+
+Writing clean, maintainable code.
+
+Leveraging data to drive insights and solutions.
+
+Contributing to open-source projects and collaborating with the tech community.
+
+📫 Let’s connect: LinkedIn | lujamaharjan7@gmail.com
