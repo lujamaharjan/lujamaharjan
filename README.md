@@ -1,8 +1,8 @@
- 👋 Hi, I’m Sachin Maharjan
-💻 .NET Developer with 4+ years of experience | MSc in Data Science (ongoing).
-🔧 Skills: ASP.NET, FastAPI, Python, HTML, CSS, JavaScript, React.js.
-📊 Exploring: Data Science, Machine Learning, and Computational Intelligence.
-🚀 Passionate about: Building scalable solutions, solving complex problems, and continuous learning.
+ 👋 Hi, I’m Sachin Maharjan <br />
+💻 .NET Developer with 4+ years of experience | MSc in Data Science (ongoing).<br />
+🔧 Skills: ASP.NET, FastAPI, Python, HTML, CSS, JavaScript, React.js.<br />
+📊 Exploring: Data Science, Machine Learning, and Computational Intelligence.<br />
+🚀 Passionate about: Building scalable solutions, solving complex problems, and continuous learning.<br />
 
 
 🔧 Skills & Expertise:
